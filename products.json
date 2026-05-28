@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro Max 256GB",
+      "price": "4,200,000 ₮",
+      "discount": "-10%",
+      "category": "Гар утас",
+      "image": "/images/iphone15promax.png",
+      "link": "/products/iphone-15-pro-max"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": "3,900,000 ₮",
+      "discount": null,
+      "category": "Гар утас",
+      "image": "/images/galaxys24ultra.png",
+      "link": "/products/galaxy-s24-ultra"
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi 14 Ultra",
+      "price": "2,800,000 ₮",
+      "discount": "-15%",
+      "category": "Гар утас",
+      "image": "/images/xiaomi14ultra.png",
+      "link": "/products/xiaomi-14-ultra"
+    },
+    {
+      "id": 4,
+      "name": "MacBook Air M3 13-inch",
+      "price": "3,600,000 ₮",
+      "discount": null,
+      "category": "Компютер",
+      "image": "/images/macbookairm3.png",
+      "link": "/products/macbook-air-m3"
+    },
+    {
+      "id": 5,
+      "name": "ASUS ROG Strix G16 Gaming Laptop",
+      "price": "4,500,000 ₮",
+      "discount": "-20%",
+      "category": "Компютер",
+      "image": "/images/asustrogstrix.png",
+      "link": "/products/asus-rog-strix-g16"
+    },
+    {
+      "id": 6,
+      "name": "Lenovo Legion 5 Pro",
+      "price": "3,850,000 ₮",
+      "discount": null,
+      "category": "Компютер",
+      "image": "/images/legion5pro.png",
+      "link": "/products/lenovo-legion-5-pro"
+    },
+    {
+      "id": 7,
+      "name": "Sony WH-1000XM5 Wireless Headphones",
+      "price": "1,150,000 ₮",
+      "discount": "-12%",
+      "category": "Чихэвч",
+      "image": "/images/sonywh1000xm5.png",
+      "link": "/products/sony-wh-1000xm5"
+    },
+    {
+      "id": 8,
+      "name": "Apple AirPods Pro (2nd Generation)",
+      "price": "780,000 ₮",
+      "discount": null,
+      "category": "Чихэвч",
+      "image": "/images/airpodspro2.png",
+      "link": "/products/airpods-pro-2"
+    },
+    {
+      "id": 9,
+      "name": "HyperX Cloud III Wireless Gaming Headset",
+      "price": "490,000 ₮",
+      "discount": "-25%",
+      "category": "Чихэвч",
+      "image": "/images/hyperxcloud3.png",
+      "link": "/products/hyperx-cloud-3"
+    },
+    {
+      "id": 10,
+      "name": "iPad Pro 11-inch M4",
+      "price": "3,200,000 ₮",
+      "discount": null,
+      "category": "Таблет",
+      "image": "/images/ipadprom4.png",
+      "link": "/products/ipad-pro-m4"
+    },
+    {
+      "id": 11,
+      "name": "Samsung Galaxy Tab S9 Ultra",
+      "price": "2,950,000 ₮",
+      "discount": "-8%",
+      "category": "Таблет",
+      "image": "/images/tabs9ultra.png",
+      "link": "/products/galaxy-tab-s9"
+    },
+    {
+      "id": 12,
+      "name": "LG UltraGear 27-inch Gaming Monitor",
+      "price": "1,050,000 ₮",
+      "discount": "-15%",
+      "category": "Дэлгэц",
+      "image": "/images/lgultragear27.png",
+      "link": "/products/lg-ultragear-27"
+    },
+    {
+      "id": 13,
+      "name": "Samsung Odyssey G7 32-inch Curved",
+      "price": "1,980,000 ₮",
+      "discount": null,
+      "category": "Дэлгэц",
+      "image": "/images/odysseyg7.png",
+      "link": "/products/samsung-odyssey-g7"
+    },
+    {
+      "id": 14,
+      "name": "Logitech G502 X Plus Wireless Mouse",
+      "price": "420,000 ₮",
+      "discount": null,
+      "category": "Хулгана, гар",
+      "image": "/images/logitechg502x.png",
+      "link": "/products/logitech-g502x"
+    },
+    {
+      "id": 15,
+      "name": "Razer BlackWidow V4 Mechanical Keyboard",
+      "price": "560,000 ₮",
+      "discount": "-10%",
+      "category": "Хулгана, гар",
+      "image": "/images/razerblackwidowv4.png",
+      "link": "/products/razer-blackwidow-v4"
+    },
+    {
+      "id": 16,
+      "name": "PlayStation 5 Slim Digital Edition",
+      "price": "1,650,000 ₮",
+      "discount": "-20%",
+      "category": "Тоглоомын гар",
+      "image": "/images/ps5slim.png",
+      "link": "/products/playstation-5-slim"
+    },
+    {
+      "id": 17,
+      "name": "Xbox Series X 1TB",
+      "price": "1,850,000 ₮",
+      "discount": null,
+      "category": "Тоглоомын гар",
+      "image": "/images/xboxseriesx.png",
+      "link": "/products/xbox-series-x"
+    },
+    {
+      "id": 18,
+      "name": "Nintendo Switch OLED Model",
+      "price": "1,100,000 ₮",
+      "discount": "-18%",
+      "category": "Тоглоомын гар",
+      "image": "/images/nintendoswitcholed.png",
+      "link": "/products/nintendo-switch-oled"
+    },
+    {
+      "id": 19,
+      "name": "Anker PowerBank 24,000mAh 140W",
+      "price": "290,000 ₮",
+      "discount": null,
+      "category": "Дагалдах хэрэгсэл",
+      "image": "/images/ankerpowerbank.png",
+      "link": "/products/anker-powerbank"
+    },
+    {
+      "id": 20,
+      "name": "Elgato Stream Deck MK.2",
+      "price": "480,000 ₮",
+      "discount": "-5%",
+      "category": "Дагалдах хэрэгсэл",
+      "image": "/images/streamdeckmk2.png",
+      "link": "/products/elgato-stream-deck"
+    }
+  ]
+}
