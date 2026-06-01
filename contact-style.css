@@ -212,7 +212,6 @@ body {
     display: flex;
     justify-content: space-around;
     background-color: #333;
-    color: #000000;
     padding: 50px 60px 30px;
     margin-top: auto;
 }
@@ -225,48 +224,37 @@ body {
     margin-bottom: 10px;
 }
 .footer ul li h3 {
-    color: #000000;
-    font-size: 16px;
-    margin-bottom: 16px;
+    color: #ccc;
 }
 .footer ul li a {
-    color: #000000;
     text-decoration: none;
     font-size: 13px;
+    color: #ccc;
 }
 .footer ul li a:hover {
     color: var(--primary-color);
 }
 .footer ul li p {
-    color: #000000;
-    font-size: 13px; /*footer dotr bga utas,mail p er bichsn uchir ijil blgj bn*/
-    }
-
+    font-size: 13px;
+    color: #ccc;
+}
 .email-container {
     display: flex;
-    border: 1px solid #444;
-    border-radius: 4px;
     overflow: hidden;
     margin-top: 12px;
 }
 .email-container input {
     flex: 1;
-    background: transparent;
-    border: none;
     outline: none;
-    padding: 10px 14px;
+    padding: 10px 11px;
     font-size: 13px;
-    color: #fff;
 }
 .email-container button {
-    background: #444;
-    border: none;
-    padding: 10px 14px;
-    color: #000000;
+    padding: 10px 11px;
     cursor: pointer;
     font-size: 13px;
 }
 .email-container button:hover {
-    background-color: #0b7dda;
-    transition: all 0.2s ease;
+    background-color: var(--secondary-color);
+    transition: all 0.3s ease;
 }
